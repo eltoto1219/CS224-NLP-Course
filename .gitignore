@@ -2,3 +2,5 @@ test/
 */__pycache__/
 *.zip
 */en_es*/
+*/data*/
+*/sanity*/
